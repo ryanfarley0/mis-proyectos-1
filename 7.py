@@ -21,3 +21,4 @@ def general ():
             print("ingrese valores validos")
 
 general()
+
