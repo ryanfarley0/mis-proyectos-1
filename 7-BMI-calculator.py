@@ -13,9 +13,9 @@ def general ():
             elif 18.5<=BMI<24.9:
                 print("Su masa corporal es promedio")
             elif 25<=BMI<30:
-                print("Usted tiene sobrepeso")
+                print("Su masa corporal es alta")
             else:
-                print("Usted es obeso")
+                print("Su masa corporal es muy alta")
             break
         except ValueError:
             print("ingrese valores validos")
